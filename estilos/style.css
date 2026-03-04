@@ -63,7 +63,7 @@ section#ficha{
   border-radius: 8px;
   grid-column: 2;
 }
-section#ficha img{
+section#ficha img.foto{
 width: 200px;
 aspect-ratio: 1/1;
 object-fit: cover;
